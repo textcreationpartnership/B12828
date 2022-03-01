@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation for repeale of certaine letters patents, commissions, and proclamations, concerning innes, ale-houses, and the manufacture of gold and siluer threed.</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1621</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12828</idno>
+            <idno type="STC">STC 8664</idno>
+            <idno type="STC">Interim Tract Supplement Guide 21.h.1[9]</idno>
+            <idno type="STC">Interim Tract Supplement Guide Harl.7614[232]</idno>
+            <idno type="EEBO-CITATION">99891168</idno>
+            <idno type="PROQUEST">ocm99891168</idno>
+            <idno type="VID">188163</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B12828)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188163)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C10:1[9]; C14:1[96])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation for repeale of certaine letters patents, commissions, and proclamations, concerning innes, ale-houses, and the manufacture of gold and siluer threed.</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank).   </extent>
+               <publicationStmt>
+                  <publisher>by Bonham Norton, and Iohn Bill, printers to the Kings most excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>M. DC. XXI. [1621].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Sundry letters patents, commissions, and proclamations touching the ordering of alehouse keepers and the manufacture of gold and silver thread have been abused by the grantees. These are withdrawn. All inns, &amp;c., shall be governed as if these powers had never been in existence. Alehouse keepers put down by the Justices of Peace who have obtained licences from the grantees are to surrender them, paying nothing on their account." -- Steele.</note>
+                  <note>Dated at end: Westminster the thirtieth day of March, in the nineteenth yeere of our reigne ... .</note>
+                  <note>Arms 11; Steele notation: sundry  pressing  2) pleasure, pay-.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gold thread --  Law and legislation --  Early works to 1800.</term>
+               <term>Letters patent --  Great Britain --  Early works to 1800.</term>
+               <term>Silverwork --  Law and legislation --  Great Britain --  Early works to 1800.</term>
+               <term>Taverns (Inns) --  Law and legislation --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2014-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:188163:1" rendition="simple:additions"/>
+            <head>
+               <g ref="char:leaf">❧</g> By the King.</head>
+            <head>
+               <g ref="char:leaf">❧</g> A Proclamation for repeale of certaine Letters Patents, Commiſsions, and Proclamations, concerning Innes, Ale-houſes, and the Manufacture of <hi>Gold and Siluer Threed.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas the Kings moſt Excellent Maieſtie, by ſundry</hi> Letters Pattents, Commiſſions, and Proclamations heere<g ref="char:EOLhyphen"/>tofore made and publiſhed, gaue ſeuerall directions, aſwell touching the Licenſing of Innes and Hoſteries, as touching the ordering of Alehouſe-keepers, and leuying the forfeitures of their Recognizances, and likewiſe touching the ſetling of a Manufacture of Gold and Siluer Threed within this King<g ref="char:EOLhyphen"/>dome; In all which, his Maieſties intentions were no other but the increaſe of profitable Arts and Inuentions, the re<g ref="char:EOLhyphen"/>preſſing of vice and diſorder, and reformation of ſundry enor<g ref="char:EOLhyphen"/>mities and abuſes: yet by the fraud and abuſe of ſome perſons, who with much confi<g ref="char:EOLhyphen"/>dence and aſſurance vndertooke to his Maieſty, to manage and execute the ſaid Patents, Proclamations, and Commiſſions, for his Maieſties honour, and the good of the publike; the ſame haue beene peruerted, to the diſturbance of the Iuſtice of the Realme, affront to Iuſtices of Aſſiſe, and Iuſtices of the Peace, and to the great damage, hurt, and oppreſſi<g ref="char:EOLhyphen"/>on of many of his Maieſties Subiects; which abuſes were altogether vnknowne to his moſt Excellent Maieſtie, vntill they were diſcouered by the complaint of the Commons in this preſent Parliament, which (had they ſooner come to his Maieſties knowledge) he would haue puniſhed with all ſeueritie. His Maieſtie out of his tender zeale and af<g ref="char:EOLhyphen"/>fection which he beareth to all his louing Subiects, being well pleaſed with that exempla<g ref="char:EOLhyphen"/>rie courſe of Iuſtice, which to His ſinguler contentment, hath beene already begun in His high Court of Parliament, againſt ſome of the principall offenders; and to the end that all His louing Subiects, might ſee how much His care and zeale is to giue remedy to any thing that is found hurtfull to the Common-weale of His people; Hath been pleaſed of His aboundant goodneſſe, to put His owne Royall hand and Princely care, to the ſpeedy and vtter aboliſhing of all that euill, which might heereafter ſpring from thoſe rootes.</p>
+            <p>And therefore doth hereby declare and publiſh, that it is his expreſſe will and pleaſure, That all the ſayd Letters Patents, Commiſſions, and Proclamations beforementioned, be forthwith reuoked. And doth further hereby ſtreightly charge and command, That no perſon or perſons, doe hereafter preſume to put in execution the foreſayd Letters Pa<g ref="char:EOLhyphen"/>tents, Proclamations or Commiſſions, or any of them, or any Article or thing in them or any of them conteyned. And his further pleaſure is, That all Innes, Hoſteries and Alehouſes, and the ſeuerall Inne-keepers and Alehouſe-keepers thereof ſhalbe gouer<g ref="char:EOLhyphen"/>ned, ordered and vſed in all points as they ſhould haue beene, if the ſayd Letters Pa<g ref="char:EOLhyphen"/>tents, Commiſſions and Proclamations had not beene made. And that all Recogni<g ref="char:EOLhyphen"/>zances of Alehouſe-keepers ſhalbe proceeded with, in the ſame plight, manner and forme, and none other, then as they ſhould haue beene if the ſayd Letters Patents and Pro<g ref="char:EOLhyphen"/>clamations concerning the ſame, had not beene made. And whereas ſundrie Ale<g ref="char:EOLhyphen"/>houſe-keepers, being by order of the Iuſtices of Aſſiſe, and Iuſtices of Peace, put downe and ſuppreſſed from keeping Victualling houſes, did after by collour of the ſayd Let<g ref="char:EOLhyphen"/>ters Patents, and Commiſſions for Licenſing of Innes and Hoſteries, obteyne Li<g ref="char:EOLhyphen"/>cences from or by meanes of the ſayd Patentees, to keepe Innes or Hoſteries, His Ma<g ref="char:EOLhyphen"/>ieſties further pleaſure and commandement is, that all ſuch Innes ſo abuſiuely erected, and all other Innes lycenſed and ſet vp by force or collour of the foreſayd Letters Pa<g ref="char:EOLhyphen"/>tents in vnfit places, or by perſons of euill fame, bee forthwith ſuppreſſed. And his Maieſtie doth hereby require, command, and authorize his Iuſtices of Aſſiſe, and Iu<g ref="char:EOLhyphen"/>ſtices of Peace within the ſeuerall Counties and places of this Kingdome, to take or<g ref="char:EOLhyphen"/>der for the ſuppreſſing thereof accordingly, and to take further order, that the ſeuerall Lycences ſo vnduely granted, be deliuered to the Clerke of Aſſiſe, or Clerke of the Peace in open Aſſiſes or Seſſions, there to remaine vntill further order may bee taken for the abſolute cancellation and auoyding of the ſame. And His Highneſſe further pleaſure is, in regard of the ſayd abuſes, That no rent, or ſumme of money due or pretended to bee due for, or in reſpect of any ſuch Lycence, for ſetting vp of any Inne or Hoſtery, bee at any time hereafter leuied, receiued or demaunded; But that all aſſurances for pay<g ref="char:EOLhyphen"/>ment thereof bee diſcharged.</p>
+            <closer>
+               <dateline>Giuen at Our Palace of Weſtminſter the thirtieth day of March, in the nineteenth yeere of Our Reigne of Great Britaine, France and Ireland.</dateline>
+            </closer>
+            <closer>God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by BONHAM NORTON, and IOHN BILL, Printers to the Kings moſt Excellent Maieſtie. M.DC.XXI.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
